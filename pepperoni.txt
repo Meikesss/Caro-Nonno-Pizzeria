@@ -1,5 +1,7 @@
 Pepperoni Pizza:
 
+Ingredients:
+
 Pizza dough
 Pizza sauce
 Pepperoni slices
